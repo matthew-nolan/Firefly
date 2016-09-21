@@ -1,0 +1,16 @@
+<div class="row-white">
+  <h1>Firefly</h1>
+  <h2>An AI assistant that attends your meetings, takes<br/>beautiful notes, and never forgets an action item<i>!!</i></h2>
+
+  <div class="row">
+    <div class="col-lg-4"></div>
+    <div class="col-lg-4" id="homepage_sign_up">
+      <div class="input-group" id="sign_up">
+        <input type="text" class="form-control" placeholder="E-mail address...">
+        <span class="input-group-btn">
+          <button class="btn btn-default" type="button">Create New Organization&nbsp&nbsp&nbsp<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></button>
+        </span>
+
+      </div><!-- /input-group -->
+      <p> Does your company already use Firefly? <a href="#">Sign in</a> or <a href="#">find your organization</a>.</p>
+    </div><!-- /.col-lg-3 -->
